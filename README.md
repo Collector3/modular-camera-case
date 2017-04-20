@@ -16,10 +16,12 @@ Choose one of the cases below (they're plated together according to filename). T
 
 ## Bill of Materials
 
-This BOM lists the amount of screws for each setup. In reality, everything is usually sold in 25+ quantity packs, so just buy M2.5 screws and M2.5 hex nuts. There is extra spacing to use nylock nuts instead if desired.
+This BOM lists the amount of screws for each setup. In reality, everything is usually sold in 25+ quantity packs, so just buy M2.5 screws and M2.5 hex nuts. There is extra spacing to use nylock nuts too if desired.
 
 Of course, if you're set on doing so, threading a bit of filament through the
-holes and gluing everything together can work just as well (if no future adjustments are desired).
+holes and gluing everything together can work just as well (if no future adjustments are desired). Zip ties also work, but don't look as good.
+
+### Various configurations
 
 #### Pi Zero Case + Long Arm
 
