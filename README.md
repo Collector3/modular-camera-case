@@ -64,7 +64,7 @@ To split these for arranging on a bed in Slic3r, use the 'Split' option at the t
 
 * Purple: Ultimachine Purple Translucent PLA
 
-* Yellow: Prusa PLA (Fillamentum)
+* Yellow: Prusa PLA, OEM: [Plasty Mladec](http://www.plastymladec.cz/) 
 
 * Brown: Proto-pasta High Performance HTPLA - Aromatic Coffee
 
