@@ -49,6 +49,11 @@ To split these for arranging on a bed in Slic3r, use the 'Split' option at the t
 * 1x: M2.5 x 16mm screw (pushed in through the top or bottom before joining
   with the smaller base [yellow in the picture])
 
+#### RPi OEM Backpack
+
+* File: rpi-zero-oem-case-backpack.stl [Red]
+* 1x M2.5 20mm screw + 1x M2.5 Nylock
+
 ### Hardware source
 
 (I don't have a good source for a metric hex key, but an appropriately sized one should be in many repair kits and multi-tools)
@@ -69,3 +74,4 @@ To split these for arranging on a bed in Slic3r, use the 'Split' option at the t
 * Brown: Proto-pasta High Performance HTPLA - Aromatic Coffee
 
 * Gray: Atomic Filament Extreme Impact Gun Metal Gray v2 (a flex test of the impact modifier is present on the far left casing)
+
